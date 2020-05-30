@@ -1,0 +1,9 @@
+// All of this is globally available in the electron
+// app. custom scss components are made next to the
+// component itself and imported locally.
+
+@import 'reset';
+@import 'colors';
+@import 'variables';
+@import 'mixins';
+@import 'functions';
